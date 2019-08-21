@@ -1,4 +1,4 @@
-KTMTvHN_Prject02
+KTMTvHN_Project02
 # Project make time library in the MIPS language
 # Member:
 - 1712273: Lam Duc Anh
